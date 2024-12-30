@@ -34,11 +34,12 @@ The dataset includes the following features:
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/chandkund/Movie-Recommender-System.git
+   git clone https://github.com/chandkund/MOVIE-RECOMMENDER-SYSTEM
+.git
    ```  
 2. **Navigate to the project directory**:  
    ```bash
-   cd Movie-Recommender-System
+   cd MOVIE-RECOMMENDER-SYSTEM
    ```  
 3. **Install required packages**:  
    ```bash
@@ -49,7 +50,7 @@ The dataset includes the following features:
 
 Run the script to get movie recommendations:  
 ```bash
-python movie_recommender.py
+python MOVIE-RECOMMENDER-SYSTEM.py
 ```
 
 ## Results
