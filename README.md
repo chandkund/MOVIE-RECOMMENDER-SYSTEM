@@ -56,4 +56,6 @@ python MOVIE-RECOMMENDER-SYSTEM.py
 ## Results
 
 The recommender system effectively suggests movies that align with user preferences. Using cosine similarity, it ensures accurate and personalized recommendations, enhancing the overall movie discovery experience.
+## LICENSE
+This project is licensed under the MIT License - see the [LICENSE](LICENSE)file for details.
 
